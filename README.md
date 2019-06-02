@@ -1,3 +1,1 @@
-# XinweiChai.github.io
-
-Personal page
+# Personal page
